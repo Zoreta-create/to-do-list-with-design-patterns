@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O To-do-List é um projeto que mostra uma lista de coisas para fazer em um projeto ou desafio.
+O To-do-List é um software que mostra uma lista de coisas para fazer em um projeto ou desafio.
 
 ## 🔖 Disposição
 
