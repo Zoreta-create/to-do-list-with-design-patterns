@@ -18,8 +18,10 @@ Projeto universitário para ensino de tecnologias Backend.
 <br>
 
 <p align="center">
-  <img alt="Imagem de um to-do-list" src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/6f79038fcda2eb84a411cfa9786122eb192958c7" width="100%">
+<img width="4962" height="1610" alt="Banco_Bradesco_logo_(horizontal)" src="https://github.com/user-attachments/assets/d5fad05d-fdf7-4752-a23a-d5a4139f4e60" />
 </p>
+
+
 
 ## 🚀 Tecnologias
 
@@ -44,5 +46,6 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ e ódio por Gabriel de Jesus.
+
 
 
