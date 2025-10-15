@@ -18,7 +18,7 @@ Projeto universitário para ensino de tecnologias Backend.
 <br>
 
 <p align="center">
-  <img alt="Imagem de um to-do-list" src="https://chromewebstore.google.com/detail/todo-list/mkobobmncbbieloopnpflkicoaoihcle?hl=pt-BR" width="100%">
+  <img alt="Imagem de um to-do-list" src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/6f79038fcda2eb84a411cfa9786122eb192958c7" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,3 +44,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ e ódio por Gabriel de Jesus.
+
