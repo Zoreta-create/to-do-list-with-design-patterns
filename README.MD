@@ -18,7 +18,8 @@ Projeto universitário para ensino de tecnologias Backend.
 <br>
 
 <p align="center">
-https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/592/160/datas/original.PNG
+
+<img width="100%" alt="Imagem de um to-do-list" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/592/160/datas/original.PNG"/>
 </p>
 
 
@@ -46,6 +47,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ e ódio por Gabriel de Jesus.
+
 
 
 
