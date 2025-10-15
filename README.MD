@@ -18,7 +18,7 @@ Projeto universitário para ensino de tecnologias Backend.
 <br>
 
 <p align="center">
-<img width="4962" height="1610" alt="Banco_Bradesco_logo_(horizontal)" src="https://github.com/user-attachments/assets/d5fad05d-fdf7-4752-a23a-d5a4139f4e60" />
+https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/592/160/datas/original.PNG
 </p>
 
 
@@ -46,6 +46,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ e ódio por Gabriel de Jesus.
+
 
 
 
